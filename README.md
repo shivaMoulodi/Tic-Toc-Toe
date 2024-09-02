@@ -8,12 +8,12 @@ This project is a Tic-Tac-Toe game where a single player competes against an AI 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/shivaMoulodi/tic-tac-toe-ai.git
+   git clone https://github.com/shivaMoulodi/tic-tac-toe.git
    ```
    
 2. **Navigate to the Project Directory**:
    ```bash
-   cd tic-tac-toe-ai
+   cd tic-tac-toe
    ```
    
 3. **Run the Game**:

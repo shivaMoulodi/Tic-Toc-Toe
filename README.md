@@ -13,7 +13,7 @@ This project is a Tic-Tac-Toe game where a single player competes against an AI 
    
 2. **Navigate to the Project Directory**:
    ```bash
-   cd tic-tac-toe
+   cd code.py
    ```
    
 3. **Run the Game**:
